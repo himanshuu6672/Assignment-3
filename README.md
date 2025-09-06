@@ -4,7 +4,7 @@ This repository contains two Python scripts:
 
 ## Task 1
 
--   Calculates the factorial of a number using recursion.
+-   Calculates the factorial of a number entered by the user  using recursion.
 
 ## Task 2
 
@@ -13,13 +13,3 @@ This repository contains two Python scripts:
     -   Logarithm
     -   Sine
 
-## How to Run
-
-``` bash
-python Task\ 1.py
-python Task\ 2.py
-```
-
-## Requirements
-
--   Python 3.x
